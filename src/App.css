@@ -1,0 +1,5 @@
+.mapouter{text-align:center;height: 100px; width:100%;}
+.gmap_canvas {overflow:hidden;background:none!important;height:600px;width:100%;}
+.slide{
+  height:300px;
+}
